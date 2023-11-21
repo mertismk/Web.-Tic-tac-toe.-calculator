@@ -1,4 +1,4 @@
-# Web.-Tic-tac-toe.-calculator
+# Web. Tic-tac-toe, calculator.
 
 The task consists of two parts.
 
